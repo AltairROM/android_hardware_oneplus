@@ -4,8 +4,6 @@
     SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
-    <string name="app_name">OnePlus Config Panel</string>
-
     <!-- Alert slider -->
     <string name="alert_slider_category_title">Alert slider</string>
     <string name="alert_slider_selection_dialog_title">Action</string>
